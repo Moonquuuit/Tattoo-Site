@@ -1,8 +1,7 @@
-# Tattoo-Site
-Tattoo art website
+#Tattoo art website
+
 This project is a website dedicated to tattoo art projects.
 
-The site is written in HTML, CSS and JS, the site looks beautiful, since it uses a pleasant and slow scrolling, and smooth appearance of photos and text.
+The site is written in HTML, CSS and JS. The site looks beautiful thanks to the use of pleasant and smooth scrolling, as well as the smooth appearance of photos and text.
 
-In order to use this site you need to download the "Live Server" application and you can see how this site works. If you are too lazy to do these machinations, you can look at the review of the site in my telegram channel
-https://t.me/MoonquitDeveloper/52
+To use this site, you need to download the "Live Server" extension and you will be able to see how this site works. If you are too lazy to do these manipulations, you can watch a review of the site in my telegram channel: https://t.me/MoonquitDeveloper/52
